@@ -1,0 +1,158 @@
+# depslib dependency file v1.0
+1592634470 source:c:\users\91991\desktop\new project\project_oop\main.cpp
+	<bits/stdc++.h>
+	<fstream>
+	<windows.h>
+	"Customer.hpp"
+
+1592634470 source:c:\users\91991\desktop\new project\project_oop\22balls_def.cpp
+	<bits/stdc++.h>
+	<windows.h>
+	"22balls.hpp"
+
+1592634722 c:\users\91991\desktop\new project\project_oop\22balls.hpp
+
+1592491786 c:\users\91991\desktop\new project\project_oop\colour.hpp
+	<windows.h>
+
+1592492543 source:c:\users\91991\desktop\new project\project_oop\mastermind_game_def.cpp
+	<bits/stdc++.h>
+	<windows.h>
+	<fstream>
+	<ctime>
+	"Mastermind_game.hpp"
+
+1592491078 c:\users\91991\desktop\new project\project_oop\mastermind_game.hpp
+
+1592493609 source:c:\users\91991\desktop\new project\project_oop\functions.cpp
+	<bits/stdc++.h>
+	<windows.h>
+	<fstream>
+
+1592493873 c:\users\91991\desktop\new project\project_oop\functions.cpp
+	<bits/stdc++.h>
+	<windows.h>
+	<fstream>
+
+1592502149 source:c:\users\91991\desktop\new project\project_oop\uttt_def.cpp
+	"Uttt.hpp"
+	<bits/stdc++.h>
+	<conio.h>
+	<fstream>
+
+1592526333 c:\users\91991\desktop\new project\project_oop\uttt.hpp
+
+1592633463 source:c:\users\91991\desktop\new project\project_oop\customer_def.cpp
+	<bits/stdc++.h>
+	<windows.h>
+	<fstream>
+	<ctime>
+	"Customer.hpp"
+
+1592633463 c:\users\91991\desktop\new project\project_oop\customer.hpp
+	"Mastermind_game.hpp"
+	"22balls.hpp"
+	"Uttt.hpp"
+
+1592634724 source:c:\users\91991\desktop\new project\project_oop_1\project_oop\22balls_def.cpp
+	<bits/stdc++.h>
+	<windows.h>
+	"22balls.hpp"
+
+1592634724 c:\users\91991\desktop\new project\project_oop_1\project_oop\22balls.hpp
+
+1592699104 source:c:\users\91991\desktop\new project\project_oop_1\project_oop\customer_def.cpp
+	<bits/stdc++.h>
+	<windows.h>
+	<ctime>
+	"Customer.hpp"
+
+1592633464 c:\users\91991\desktop\new project\project_oop_1\project_oop\customer.hpp
+	"Mastermind_game.hpp"
+	"22balls.hpp"
+	"Uttt.hpp"
+
+1592491080 c:\users\91991\desktop\new project\project_oop_1\project_oop\mastermind_game.hpp
+
+1592526334 c:\users\91991\desktop\new project\project_oop_1\project_oop\uttt.hpp
+
+1592699265 source:c:\users\91991\desktop\new project\project_oop_1\project_oop\main.cpp
+	<bits/stdc++.h>
+	<fstream>
+	<windows.h>
+	"Admin.hpp"
+	"Customer.hpp"
+
+1592492544 source:c:\users\91991\desktop\new project\project_oop_1\project_oop\mastermind_game_def.cpp
+	<bits/stdc++.h>
+	<windows.h>
+	<fstream>
+	<ctime>
+	"Mastermind_game.hpp"
+
+1592502150 source:c:\users\91991\desktop\new project\project_oop_1\project_oop\uttt_def.cpp
+	"Uttt.hpp"
+	<bits/stdc++.h>
+	<conio.h>
+	<fstream>
+
+1592699104 source:c:\users\91991\desktop\new project\project_oop_1\project_oop\admin_def.cpp
+	"Admin.hpp"
+	<fstream>
+	<windows.h>
+	<iostream>
+
+1592699185 c:\users\91991\desktop\new project\project_oop_1\project_oop\admin.hpp
+	"Customer.hpp"
+
+1592634724 source:c:\users\91991\desktop\new project\project_oop_2\project_oop\22balls_def.cpp
+	<bits/stdc++.h>
+	<windows.h>
+	"22balls.hpp"
+
+1592634724 c:\users\91991\desktop\new project\project_oop_2\project_oop\22balls.hpp
+
+1592699104 source:c:\users\91991\desktop\new project\project_oop_2\project_oop\admin_def.cpp
+	"Admin.hpp"
+	<fstream>
+	<windows.h>
+	<iostream>
+
+1592699185 c:\users\91991\desktop\new project\project_oop_2\project_oop\admin.hpp
+	"Customer.hpp"
+
+1592633464 c:\users\91991\desktop\new project\project_oop_2\project_oop\customer.hpp
+	"Mastermind_game.hpp"
+	"22balls.hpp"
+	"Uttt.hpp"
+
+1592491080 c:\users\91991\desktop\new project\project_oop_2\project_oop\mastermind_game.hpp
+
+1592526334 c:\users\91991\desktop\new project\project_oop_2\project_oop\uttt.hpp
+
+1592699366 source:c:\users\91991\desktop\new project\project_oop_2\project_oop\customer_def.cpp
+	<bits/stdc++.h>
+	<windows.h>
+	<ctime>
+	"Customer.hpp"
+
+1592699366 source:c:\users\91991\desktop\new project\project_oop_2\project_oop\main.cpp
+	<bits/stdc++.h>
+	<fstream>
+	<windows.h>
+	"Admin.hpp"
+	"Customer.hpp"
+
+1592700573 source:c:\users\91991\desktop\new project\project_oop_2\project_oop\mastermind_game_def.cpp
+	<bits/stdc++.h>
+	<windows.h>
+	<fstream>
+	<ctime>
+	"Mastermind_game.hpp"
+
+1592502150 source:c:\users\91991\desktop\new project\project_oop_2\project_oop\uttt_def.cpp
+	"Uttt.hpp"
+	<bits/stdc++.h>
+	<conio.h>
+	<fstream>
+

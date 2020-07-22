@@ -1,0 +1,12 @@
+
+  01	Geometry box                150
+  02	Puzzle                       80
+  03	Teddy Bear                  200
+  04	Mickey Mouse Pillow         170
+  05	Avengers Stickers            30
+  06	Master Chief's Helmet       300
+  07	T-Shirt                     250
+  08	Buzz Lightyear Pencil        50
+  09	Little Mermaid Locket        40
+  10	Ben10 Watch                  80
+
